@@ -24,5 +24,6 @@
 
 {
    background-color: rgb(106, 224, 92);
-   font-size: 24px, bold;
+   font-size: 24px;
+   font-weight: bold;
 }
