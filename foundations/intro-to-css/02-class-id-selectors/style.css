@@ -1,0 +1,28 @@
+.number1,
+.number3,
+.number5
+{
+   background-color:rgba(248, 86, 218, 0.544);
+   font-family:Verdana,"DejaVu Sans",sans-serif;
+
+}
+
+
+#number2
+{
+   color:rgb(28, 10, 226);
+   font-size: 36px;
+}
+
+
+.number3
+{
+   font-size: 24px;
+}
+
+#number4
+
+{
+   background-color: rgb(106, 224, 92);
+   font-size: 24px, bold;
+}
