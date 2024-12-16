@@ -7,6 +7,12 @@
 
 .yellow
 {
-  background-color: rgb(249, 249, 249);
+  background-color: rgb(212, 240, 32);
 }
 
+.yellow,
+.black
+{
+  font-size: 28px;
+  font-family: Helvetica, "Times New  Roman", sans-serif;
+}
